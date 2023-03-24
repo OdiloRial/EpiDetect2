@@ -1,2 +1,2 @@
 # EpiDetect
-Sistema inteligente capaz de anunciar de terminados episodios epilépticos 
+Sistema inteligente capaz de anunciar  anticipadamente episodio en epilepsias refractarias parciales complejas
